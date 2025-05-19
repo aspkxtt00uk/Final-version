@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+h1:first-of-type {
+  display: none;
+}
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
